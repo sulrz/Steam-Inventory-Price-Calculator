@@ -1,0 +1,8 @@
+.InventoryPage {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+
+    left: 10%;
+}
